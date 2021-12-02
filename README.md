@@ -11,10 +11,10 @@
 
 | Code Smell | Refatorações sugeridas|
 |------------|-----------------------|
-| **Nome Misterioso** | link |
-| **Código duplicado** | []() |
-| **Método longo** | |
-| **Lista longa de parâmetros** | |
+| **Nome Misterioso** |[Change Method Declaration](https://refactoring.com/catalog/changeFunctionDeclaration.html)<br>[Rename Variable](https://refactoring.com/catalog/renameVariable.html)<br>[Rename Field](https://refactoring.com/catalog/renameField.html)  |
+| **Código duplicado** | [Extract Method](https://refactoring.com/catalog/extractFunction.html)<br>[Slide Statements](https://refactoring.com/catalog/slideStatements.html)<br>[Pull Up Method](https://refactoring.com/catalog/pullUpMethod.html) |
+| **Método longo** | [Extract Method](https://refactoring.com/catalog/extractFunction.html)<br>[Replace Temp With Query](https://refactoring.com/catalog/replaceTempWithQuery.html)<br>[Introdice Parameter Object](https://refactoring.com/catalog/introduceParameterObject.html)<br>|
+|**Lista longa de parâmetros** | |
 | **Dados Globais** | |
 | **Dados Mutáveis** | |
 | **Alteração Divergente** | |
