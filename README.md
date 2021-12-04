@@ -19,7 +19,7 @@
 | **Dados Mutáveis** | [Encapsulate Variable](https://refactoring.com/catalog/encapsulateVariable.html)<br>[Split Variable](https://refactoring.com/catalog/splitVariable.html)<br>[Slide Statements](https://refactoring.com/catalog/slideStatements.html)<br>[Extract Function](https://refactoring.com/catalog/extractFunction.html)<br>[Separate Query From Modifier](https://refactoring.com/catalog/separateQueryFromModifier.html)<br>[Remove Setting Method](https://refactoring.com/catalog/removeSettingMethod.html)<br>[Replace Derived Variable with Query](https://refactoring.com/catalog/replaceDerivedVariableWithQuery.html)<br>[Combine Function into Class](https://refactoring.com/catalog/combineFunctionsIntoClass.html)<br>[Combine Functions into Transform](https://refactoring.com/catalog/combineFunctionsIntoTransform.html)<br>[Change Reference to Value](https://refactoring.com/catalog/changeReferenceToValue.html)|
 | **Alteração Divergente** |[Split Phase](https://refactoring.com/catalog/splitPhase.html)<br>[Move Method](https://refactoring.com/catalog/moveFunction.html)<br>[Extract Method](https://refactoring.com/catalog/extractFunction.html)<br>[Extract Class](https://refactoring.com/catalog/extractClass.html) |
 | **Cirurgia com rifle** | |
-| **Inveja de Dados** | |
+| **Inveja de Dados** |[Move Method](https://refactoring.com/catalog/moveFunction.html)<br> [Extract Method](https://refactoring.com/catalog/extractFunction.html)<br>|
 | **Agrupamento de Dados** | |
 | **Obseção por primitivos** | |
 | **Switches repetitivos** | |
